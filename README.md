@@ -19,15 +19,12 @@ I'm passionate about sharing knowledge, documentation, creating User-friendly,In
 
 🛠️{languages and tools: frontend}🛠️
 <p>
-<img src="images/html.svg"/>
-<img src="images/css.svg"/>
-<img src="images/javascript.svg"/>
-<img src="images/markdown.svg"/>
-<img src="images/Bootstrap-563D7C.svg"/>
-<img src="images/react.svg"/>
-<img src="images/github.svg"/>
-<img src="images/git.svg"/>
-<img src="images/vscode.svg"/>
+<img src="Images/html.svg"/>
+<img src="Images/css.svg"/>
+<img src="Images/javascript.svg"/>
+<img src="Images/markdown.svg"/>
+<img src="Images/Bootstrap-563D7C.svg"/>
+<img src="Images/react.svg"/>
 </p>
 
 
