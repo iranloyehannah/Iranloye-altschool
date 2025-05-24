@@ -22,8 +22,7 @@ I'm passionate about sharing knowledge, documentation, creating User-friendly,In
 <img src="Images/html.svg"/>
 <img src="Images/css.svg"/>
 <img src="Images/javascript.svg"/>
-<img src="Images/markdown.svg"/>
-<img src="Images/Bootstrap-563D7C.svg"/>
+<img src="Images/Tailwind.svg"/>
 <img src="Images/react.svg"/>
 </p>
 
