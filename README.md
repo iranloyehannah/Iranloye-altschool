@@ -8,7 +8,7 @@ I'm passionate about sharing knowledge, documentation, creating User-friendly,In
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of Tinyuka 2024/2025.
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of Tinyuka 2024/25.
 - 🌱 I’m currently learning JavaScript, Reactjs,Tailwindcss,Typescript.
 - 😊 I’m looking for help with open source projects,internships, and entry-level opportunities.
 - 💼 Job interests: FrontEnd Engineer,Virtual Assitant,Customer Support.
